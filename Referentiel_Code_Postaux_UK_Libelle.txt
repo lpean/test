@@ -1,0 +1,126 @@
+Zone postale	Nom1
+AB	Aberdeen
+AL	St Albans
+B	Birmingham
+BA	Bath
+BB	Blackburn
+BD	Bradford
+BH	Bournemouth
+BL	Bolton
+BN	Brighton
+BR	Bromley
+BS	Bristol
+BT	Belfast
+CA	Carlisle
+CB	Cambridge
+CF	Cardiff
+CH	Chester
+CM	Chelmsford
+CO	Colchester
+CR	Croydon
+CT	Cantorbéry
+CV	Coventry
+CW	Crewe
+DA	Dartford
+DD	Dundee
+DE	Derby
+DG	Dumfries
+DH	Durham
+DL	Darlington
+DN	Doncaster
+DT	Dorchester
+DY	Dudley
+E	Londres E
+EC	Londres EC
+EH	Édimbourg
+EN	Enfield
+EX	Exeter
+FK	Falkirk
+FY	Blackpool
+G	Glasgow
+GL	Gloucester
+GU	Guildford
+HA	Harrow
+HD	Huddersfield
+HG	Harrogate
+HP	Hemel Hempstead
+HR	Hereford
+HS	Hébrides extérieures
+HU	Kingston-upon-Hull
+HX	Halifax
+IG	Ilford
+IP	Ipswich
+IV	Inverness
+KA	Kilmarnock
+KT	Kingston upon Thames
+KW	Kirkwall
+KY	Kirkcaldy
+L	Liverpool
+LA	Lancaster
+LD	Llandrindod Wells
+LE	Leicester
+LL	Llandudno
+LN	Lincoln
+LS	Leeds
+LU	Luton
+M	Manchester
+ME	Rochester
+MK	Milton Keynes
+ML	Motherwell
+N	Londres N
+NE	Newcastle upon Tyne
+NG	Nottingham
+NN	Northampton
+NP	Newport
+NR	Norwich
+NW	Londres NW
+OL	Oldham
+OX	Oxford
+PA	Paisley
+PE	Peterborough
+PH	Perth
+PL	Plymouth
+PO	Portsmouth
+PR	Preston
+RG	Reading
+RH	Redhill
+RM	Romford
+S	Sheffield
+SA	Swansea
+SE	Londres SE
+SG	Stevenage
+SK	Stockport
+SL	Slough
+SM	Sutton
+SN	Swindon
+SO	Southampton
+SP	Salisbury
+SR	Sunderland
+SS	Southend-on-Sea
+ST	Stoke-on-Trent
+SW	Londres SW
+SY	Shrewsbury
+TA	Taunton
+TD	Galashiels
+TF	Telford
+TN	Tonbridge
+TQ	Torquay
+TR	Truro
+TS	Cleveland (Angleterre)
+TW	Twickenham
+UB	Southall
+W	Londres W
+WA	Warrington
+WC	Londres WC
+WD	Watford
+WF	Wakefield
+WN	Wigan
+WR	Worcester
+WS	Walsall
+WV	Wolverhampton
+YO	York
+ZE	Lerwick
+GY	Guernesey
+IM	Ile de Man
+JE	Jersey
+ZZ	Territoire outre mer
